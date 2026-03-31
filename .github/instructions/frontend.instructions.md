@@ -10,3 +10,4 @@ applyTo: "*.html,*.css,*.js"
 - Use responsive design for compatibility with mobile devices.
 - Validate HTML structure and semantic elements
 
+
